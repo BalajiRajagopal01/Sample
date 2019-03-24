@@ -1,0 +1,10 @@
+{
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "packagerPort": 19001,
+  "packagerPid": 3784,
+  "expoServerNgrokUrl": "https://ae-uyx.anonymous.sample.exp.direct",
+  "packagerNgrokUrl": "https://packager.ae-uyx.anonymous.sample.exp.direct",
+  "ngrokPid": 4920,
+  "webpackServerPort": null
+}
